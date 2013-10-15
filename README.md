@@ -3,6 +3,8 @@ alfred-idid
 
 Alfred workflow with our iDid gem bundled into it for easy iDoneThis access.
 
+### [Download](https://github.com/Springest/alfred-idid/raw/master/iDid.alfredworkflow)
+
 ## Troubleshooting
 
 If you are having trouble, open up `Terminal` app and type
